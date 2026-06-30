@@ -18,7 +18,7 @@
 Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif University** 🇸🇦. 
 
 * 🎓 **Degree:** Bachelor of Science in Computer Engineering.
-* 📈 **GPA:** 3.58 / 4.00.
+* 📈 **GPA:** 3.83 / 4.00.
 * 💡 **Passions:** Hardware-Software Integration, Robotics, Embedded Systems, and AI-driven solutions.
 * 🚀 **Status:** Fresh Graduate looking for new professional opportunities where I can apply my engineering skills to build and optimize systems.
 
@@ -39,10 +39,10 @@ Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif Univer
 
 ### 📁 Academic & Engineering Projects
 
-| Project Title | Description | Tech Stack | Documentation & Media |
+| Project Title | Brief Description | Tech Stack | Documentation & Media |
 | :--- | :--- | :--- | :--- |
-| **Smart Healthcare Monitoring System** | An advanced AI-driven crowd management and health system utilizing smart health bracelets and thermal cameras to monitor vital signs and improve emergency response times in high-density events. | Python, AI, IoT, Thermal Imaging | [📂 View Full Project](./Smart-Healthcare-Project) |
-| **Robotic Manipulator Control** | Design and kinematics analysis for a robotic manipulator engineered to execute high-precision pick-and-place tasks at specific coordinate angles on a strict 5-second periodic interval. | C++, Robotics Kinematics, VEX Hardware | [📂 View Full Project](./Robotic-Manipulator-Project) |
+| **4-DOF Pick-and-Place Robotic Arm** | A robotic arm programmed for automated, repetitive object pick-and-place tasks. | Arduino Uno, PCA9685, C++ | 📄 `Project_Report.pdf`<br>💻 `PROGECT_44102105.ino`<br>🖼️ `Wiring_Diagram.png`<br>🖼️ `System_Prototype.jpg` |
+| **Smart Pilgrim Health & Crowd Monitoring** | An AI-driven system with smart bracelets and thermal imaging for tracking vital signs and crowd safety. | Arduino Nano, AI, IoT, Python | 📄 `Project_Proposal.pdf`<br>🖼️ `System_Flowchart.png`<br>🎬 `Dashboard_Interface.mp4`<br>📊 `Final_Presentation.pptx` |
 
 ---
 
