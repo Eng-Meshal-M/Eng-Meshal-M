@@ -49,7 +49,6 @@ Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif Univer
 ### 📊 GitHub Profile Stats
 
 <p align="center">
-  <!-- بطاقة الإحصائيات الرسمية متناسقة مع ألوانك (الكحلي والذهبي) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Eng-Meshal-M&show_icons=true&theme=tokyonight&bg_color=0A192F&title_color=F1C40F&icon_color=F1C40F&text_color=FFFFFF" alt="Meshal's GitHub Stats" />
 </p>
 
