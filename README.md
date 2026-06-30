@@ -32,17 +32,17 @@ Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif Univer
   <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=F1C40F" height="30" />
   <img src="https://img.shields.io/badge/Embedded_Systems-0A192F?style=flat-square&logo=microelectronics&logoColor=F1C40F" height="30" />
   <img src="https://img.shields.io/badge/Robotics-0A192F?style=flat-square&logo=robot&logoColor=F1C40F" height="30" />
-  <img src="https://img.shields.io/badge/Linux-0A192F?style=flat-square&logo=linux&logoColor=F1C40F" height="30" />
+  <img src="https://img.shields.io/badge/Linux-0A192F?style=flat-square&logo=linux&logicColor=F1C40F" height="30" />
 </p>
 
 ---
 
 ### 📁 Academic & Engineering Projects
 
-| Project Title | Brief Description | Tech Stack | Documentation & Media |
+| Project Title | Description | Tech Stack | Documentation & Media |
 | :--- | :--- | :--- | :--- |
-| **4-DOF Pick-and-Place Robotic Arm** | A robotic arm programmed for automated, repetitive object pick-and-place tasks. | Arduino Uno, PCA9685, C++ | 📄 `Project_Report.pdf`<br>💻 `PROGECT_44102105.ino`<br>🖼️ `Wiring_Diagram.png`<br>🖼️ `System_Prototype.jpg` |
-| **Smart Pilgrim Health & Crowd Monitoring** | An AI-driven system with smart bracelets and thermal imaging for tracking vital signs and crowd safety. | Arduino Nano, AI, IoT, Python | 📄 `Project_Proposal.pdf`<br>🖼️ `System_Flowchart.png`<br>🎬 `Dashboard_Interface.mp4`<br>📊 `Final_Presentation.pptx` |
+| **4-DOF Pick-and-Place Robotic Arm** | A robotic arm programmed for automated, repetitive object pick-and-place tasks. | Arduino Uno, PCA9685, C++ | [📂 View Project](./Robotic-Arm-Project) |
+| **Smart Pilgrim Health & Crowd Monitoring** | An AI-driven system with smart bracelets and thermal imaging for tracking vital signs and crowd safety. | Arduino Nano, AI, IoT, Python | [📂 View Project](./Pilgrim-Health-Project) |
 
 ---
 
