@@ -18,8 +18,8 @@
 Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif University** 🇸🇦. 
 
 * 🎓 **Degree:** Bachelor of Science in Computer Engineering.
-* 📈 **GPA:** 3.58 / 4.00
-* 💡 **Passions:** Hardware-Software Integration, System Design, Embedded Systems, and AI-driven solutions.
+* 📈 **GPA:** 3.58 / 4.00.
+* 💡 **Passions:** Hardware-Software Integration, Robotics, Embedded Systems, and AI-driven solutions.
 * 🚀 **Status:** Fresh Graduate looking for new professional opportunities where I can apply my engineering skills to build and optimize systems.
 
 ---
@@ -31,9 +31,18 @@ Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif Univer
   <img src="https://img.shields.io/badge/C%2B%2B-0A192F?style=flat-square&logo=c%2B%2B&logoColor=F1C40F" height="30" />
   <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=F1C40F" height="30" />
   <img src="https://img.shields.io/badge/Embedded_Systems-0A192F?style=flat-square&logo=microelectronics&logoColor=F1C40F" height="30" />
+  <img src="https://img.shields.io/badge/Robotics-0A192F?style=flat-square&logo=robot&logoColor=F1C40F" height="30" />
   <img src="https://img.shields.io/badge/Linux-0A192F?style=flat-square&logo=linux&logoColor=F1C40F" height="30" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-0A192F?style=flat-square&logo=git&logoColor=F1C40F" height="30" />
 </p>
+
+---
+
+### 📁 Academic & Engineering Projects
+
+| Project Title | Description | Tech Stack | Documentation & Media |
+| :--- | :--- | :--- | :--- |
+| **Smart Healthcare Monitoring System** | An advanced AI-driven crowd management and health system utilizing smart health bracelets and thermal cameras to monitor vital signs and improve emergency response times in high-density events. | Python, AI, IoT, Thermal Imaging | [📂 View Full Project](./Smart-Healthcare-Project) |
+| **Robotic Manipulator Control** | Design and kinematics analysis for a robotic manipulator engineered to execute high-precision pick-and-place tasks at specific coordinate angles on a strict 5-second periodic interval. | C++, Robotics Kinematics, VEX Hardware | [📂 View Full Project](./Robotic-Manipulator-Project) |
 
 ---
 
