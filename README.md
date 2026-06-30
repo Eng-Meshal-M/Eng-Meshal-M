@@ -18,7 +18,7 @@
 Hi, I'm **Meshal Almehmady**, a Computer Engineering graduate from **Taif University** 🇸🇦. 
 
 * 🎓 **Degree:** Bachelor of Science in Computer Engineering.
-* 📈 **GPA:** 3.63 / 5.00
+* 📈 **GPA:** 3.58 / 4.00
 * 💡 **Passions:** Hardware-Software Integration, System Design, Embedded Systems, and AI-driven solutions.
 * 🚀 **Status:** Fresh Graduate looking for new professional opportunities where I can apply my engineering skills to build and optimize systems.
 
