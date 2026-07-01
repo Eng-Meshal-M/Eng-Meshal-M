@@ -26,9 +26,7 @@ I enjoy designing intelligent hardware-software systems and building practical e
 
 * 🤖 Robotics & Robot Manipulators
 * ⚙️ Embedded Systems
-* 👁️ Computer Vision
 * 🌐 Internet of Things (IoT)
-* 🎯 Motion Control & Automation
 
 ---
 
@@ -37,21 +35,16 @@ I enjoy designing intelligent hardware-software systems and building practical e
 * ROS 2
 * STM32 Embedded Development
 * ESP32 IoT Applications
-* Advanced Robot Kinematics
-* Computer Vision with Python & OpenCV
-
+* Python
 ---
 
 ## 🛠️ Core Skills & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-0A192F?style=flat-square&logo=c%2B%2B&logoColor=F1C40F" height="30"/>
-  <img src="https://img.shields.io/badge/Python-0A192F?style=flat-square&logo=python&logoColor=F1C40F" height="30"/>
   <img src="https://img.shields.io/badge/Embedded_Systems-0A192F?style=flat-square&logo=microelectronics&logoColor=F1C40F" height="30"/>
   <img src="https://img.shields.io/badge/Arduino-0A192F?style=flat-square&logo=arduino&logoColor=F1C40F" height="30"/>
-  <img src="https://img.shields.io/badge/Robotics-0A192F?style=flat-square&logoColor=F1C40F" height="30"/>
-  <img src="https://img.shields.io/badge/Linux-0A192F?style=flat-square&logo=linux&logoColor=F1C40F" height="30"/>
-</p>
+  <img src="https://img.shields.io/badge/Robotics-0A192F?style=flat-square&logoColor=F1C40F" height="30"/> 
 
 ---
 
